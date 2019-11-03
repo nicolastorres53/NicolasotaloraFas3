@@ -1,0 +1,6 @@
+Objetivos 
+El objetivo de este OVI, es el de explicar que es la seguridad informática, en qué consiste, cómo nos beneficia, que es un Antivirus y  que es un Firewalls. Todo esto se hará mediante textos y videos.
+
+Objetivos del curso.
+-Aprender a manipular HTML5
+-Aprender a como crear una página.

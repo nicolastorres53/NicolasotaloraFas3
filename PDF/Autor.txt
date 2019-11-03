@@ -1,0 +1,8 @@
+Nombre: Nicolas 
+Apellidos: Otalora Torres
+Edad: 20 años
+Ocupacion: Estudiante de Ingenieria de sistemas
+Universidad UNAD
+Correo: nicolastorres53@outlook.com
+Facebook: Nicolas Torres
+Skype: nicolastorres53_1
